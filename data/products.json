@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p1",
+    "name": "Lumen Desk Lamp",
+    "category": "Lighting",
+    "price": 34.99,
+    "supplierCost": 14.20,
+    "image": "https://images.unsplash.com/photo-1543198126-42aa02de5d1a?w=600&q=80",
+    "description": "Adjustable warm-to-cool LED lamp with a weighted base and USB-C passthrough.",
+    "tag": "Bestseller"
+  },
+  {
+    "id": "p2",
+    "name": "Strata Monitor Riser",
+    "category": "Organization",
+    "price": 42.00,
+    "supplierCost": 17.50,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+    "description": "Bamboo monitor stand with a drawer for cables, notebooks, and small tools.",
+    "tag": "New"
+  },
+  {
+    "id": "p3",
+    "name": "Anchor Cable Tray",
+    "category": "Organization",
+    "price": 18.50,
+    "supplierCost": 6.90,
+    "image": "https://images.unsplash.com/photo-1593642532744-d377ab507dc8?w=600&q=80",
+    "description": "Under-desk mount that keeps power strips and cables off the floor.",
+    "tag": null
+  },
+  {
+    "id": "p4",
+    "name": "Perch Laptop Stand",
+    "category": "Ergonomics",
+    "price": 39.99,
+    "supplierCost": 15.75,
+    "image": "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80",
+    "description": "Folding aluminum stand, adjustable to six heights, packs flat for travel.",
+    "tag": "Bestseller"
+  },
+  {
+    "id": "p5",
+    "name": "Grove Desk Plant Set",
+    "category": "Decor",
+    "price": 24.00,
+    "supplierCost": 9.10,
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600&q=80",
+    "description": "Two low-maintenance faux plants in matte ceramic pots.",
+    "tag": null
+  },
+  {
+    "id": "p6",
+    "name": "Current Power Hub",
+    "category": "Tech",
+    "price": 46.50,
+    "supplierCost": 19.80,
+    "image": "https://images.unsplash.com/photo-1591290619762-c384c1b41b9a?w=600&q=80",
+    "description": "6-port USB-C hub with 100W passthrough charging and an SD card reader.",
+    "tag": "New"
+  }
+]
