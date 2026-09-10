@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p1",
+    "name": "TriCharge Wireless Charging Station",
+    "category": "Tech",
+    "price": 39.99,
+    "supplierCost": 13.30,
+    "cjUrl": "https://cjdropshipping.com/product/15w-3-in-1-led-fast-wireless-charger-stand-foldable-charging-station-for-smart-phone-15-14-13-12-11-iwatch-9-8-7-6-5-airpods-pro-p-2408300716221612100.html",
+    "image": "https://oss-cf.cjdropshipping.com/product/2024/09/19/06/de329d46-5fbb-4564-ab7a-45fe417fdaed.jpg?x-oss-process=image/format,webp,image/resize,m_fill,m_pad,w_800,h_800",
+    "description": "15W 3-in-1 fast wireless charger for phone, watch, and earbuds, with a built-in night light.",
+    "tag": "Bestseller"
+  },
+  {
+    "id": "p2",
+    "name": "Lift Aluminum Laptop Stand",
+    "category": "Ergonomics",
+    "price": 49.99,
+    "supplierCost": 27.21,
+    "cjUrl": "https://cjdropshipping.com/product/new-laptop-stand-multifunctional-folding-lift-portable-laptop-stand-monitor-increase-rack-aluminum-alloy-base-p-DCB495CC-80F8-4ED9-B5BD-26E39B751776.html",
+    "image": "https://oss-cf.cjdropshipping.com/product/2024/03/21/07/93a7bc1e-4fa2-4744-b123-5913cde779b0.jpg?x-oss-process=image/format,webp,image/resize,m_fill,m_pad,w_800,h_800",
+    "description": "Folding, height-adjustable aluminum laptop stand that packs flat for travel.",
+    "tag": "Bestseller"
+  },
+  {
+    "id": "p3",
+    "name": "Robot Desk Fan",
+    "category": "Comfort",
+    "price": 29.99,
+    "supplierCost": 16.53,
+    "cjUrl": "https://cjdropshipping.com/product/robot-fan-usb-rechargeable-desk-fan-mini-digital-display-table-fan-with-suction-cup-portable-cooling-office-car-travel",
+    "image": "https://oss-cf.cjdropshipping.com/product/2026/05/21/03/a7f9f4e1-4db7-40eb-a21f-b6de0f98a924_trans.jpeg?x-oss-process=image/format,webp,image/resize,m_fill,m_pad,w_800,h_800",
+    "description": "USB-rechargeable mini desk fan with a digital display and suction-cup mount.",
+    "tag": "New"
+  },
+  {
+    "id": "p4",
+    "name": "Anchor Magnetic Cable Clips",
+    "category": "Organization",
+    "price": 19.99,
+    "supplierCost": 10.95,
+    "cjUrl": "https://www.cjdropshipping.com/product/magnetic-cable-clip-under-desk-cable-management-adjustable-cord-holder-wire-organizer-and-cable-management-wire-keeper-p-1763402968205897728.html",
+    "image": "https://oss-cf.cjdropshipping.com/product/2024/03/18/08/c2e94668-a538-440f-9830-322e66e7608a.jpg?x-oss-process=image/format,webp,image/resize,m_fill,m_pad,w_800,h_800",
+    "description": "Set of 12 magnetic under-desk clips that keep cables organized and within reach.",
+    "tag": null
+  },
+  {
+    "id": "p5",
+    "name": "Orbit Rotating Pen Holder",
+    "category": "Organization",
+    "price": 18.00,
+    "supplierCost": 7.22,
+    "cjUrl": "https://cjdropshipping.com/product/360-degree-rotatable-pen-holder-desktop-large-capacity-stationery-storage-box-p-2407010631561600400.html",
+    "image": "https://cf.cjdropshipping.com/quick/product/abcb8a2c-0f5a-4923-b76c-787c30a56996.jpg?x-oss-process=image/format,webp,image/resize,m_fill,m_pad,w_800,h_800",
+    "description": "360-degree rotating desktop organizer with large-capacity stationery storage.",
+    "tag": null
+  },
+  {
+    "id": "p6",
+    "name": "Spiral LED Table Lamp",
+    "category": "Lighting",
+    "price": 54.99,
+    "supplierCost": 28.16,
+    "cjUrl": "https://cjdropshipping.com/product/led-spiral-table-lamp-modern-curved-desk-bedside-lamp-dimmable-warm-white-night-light-for-living-room-and-bedroom-p-1764899844667215872.html",
+    "image": "https://cf.cjdropshipping.com/quick/product/56d7b257-99d5-4c5c-b24f-12435518a4c7.jpg?x-oss-process=image/format,webp,image/resize,m_fill,m_pad,w_800,h_800",
+    "description": "Dimmable curved LED table lamp with 5 brightness levels and warm white light.",
+    "tag": "New"
+  }
+]
